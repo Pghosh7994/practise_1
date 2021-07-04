@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: darkviolet;
+}
+
+hr{
+    width: 100px;
+    color: gray;
+}
+#img1{
+    display: block;
+    position: top center;
+    margin: 0 auto;
+    height: 300px;
+    width: 600px;
+    padding: auto;
+}
+
+.card1 {
+    height: 520px;
+    width: 1000px;
+    border: 10px solid blue;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.about{
+    text-align: center;
+    color: darkred;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+span{
+    color: limegreen;
+}
